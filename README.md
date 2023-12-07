@@ -27,7 +27,3 @@ python3 merge.py path_to_first_cloudguard_json path_to_second_cloudguard_json pa
 ### Importance for CloudGuard Users
 - **Efficient Management**: Streamlines the process of managing and consolidating rules across different CloudGuard instances.
 - **Data Integrity and Compliance**: Ensures that rules are not duplicated and that special categories like "Baseline" are properly maintained, which is crucial for compliance and security posture.
-
----
-
-This readme summary is specifically tailored for GitHub repository documentation, focusing on the script's application in the context of managing Check Point CloudGuard Ruleset exports. It emphasizes the script's functionality in merging, deduplicating, and correctly categorizing rules for efficient security management.
